@@ -28,6 +28,8 @@
     flex: 1;
     border: none;
     outline: none;
+    padding: 10px;
+    border-radius: 15px;
 
 }
 .header__inputButton{
